@@ -578,8 +578,10 @@ select {
 }
 
 .slide span {
+  display: block;
   font-size: 250px;
   width: 265px;
+  height: 265px;
   overflow: hidden;
   border-radius: 50%;
   border: 8px rgb(196, 196, 25) solid;
